@@ -1,4 +1,4 @@
-![Screenshot (67)](https://github.com/Gaurav7753/IBM_VIP_Project/assets/93502957/bde05cd3-eb47-478a-8d9a-b8b5a2044869)# IBM_VIP_Project
+# IBM_VIP_Project
 
  # [MYNTRA WEBSITE CLONE](https://iridescent-jalebi-73f986.netlify.app/)
 
